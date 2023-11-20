@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  text-align: center;
+  background: purple;
+  color: white;
+  width: 400px;
+  padding: 40px;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+#demo {
+  color: red;
+  font-size: 18px;
+}
+.heading {
+  font-size: 15px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
